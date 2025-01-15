@@ -37,9 +37,16 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/StegoYas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="StegoYas" /></a><a href="https://ko-fi.com/StegoYas"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="StegoYas" /></a></p>
-<br><br>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=stegoyas&show_icons=true&locale=en&layout=compact" alt="stegoyas" /></p>
 
+<!-- <br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stegoyas&show_icons=true&locale=en&layout=compact" alt="stegoyas" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=stegoyas&show_icons=true&locale=en" alt="stegoyas" /></p>
 <br><br><br>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=stegoyas&" alt="stegoyas" /></p>
+ -->
+<br><br>
+ 
+ # 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=stegoyas&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=stegoyas&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stegoyas&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
