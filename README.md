@@ -1,8 +1,9 @@
-<a href="https://stegoyas.io" target="blank"><img align="center" src="/bannernya/bannerstegoyas.png" alt="stegoyas" height="600" width="1000" /></a> <br>
+<!-- <img src="bannernya/bannerstegoyas.png" alt="StegoYas_Banner"> -->
+[![MasterHead](bannernya/bannerstegoyas.png)](https://StegoYas.io)
 <h1 align="center">Hi 👋, I'm Yahya Ayyas | Stegoyas</h1>
 <h3 align="center">A passionate Web, Mobile & Game developer from Indonesia</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/2IudUHdI075HL02Pkk/200w.gif?cid=6c09b952ozcxffqk39wczqczwnn7cltk2gyhvw5i0dcp3qcl&ep=v1_gifs_search&rid=200w.gif&ct=g">
-<!--[![MasterHead](/bannernya/bannerstegoyas.png)](https://StegoYas.io)-->
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stegoyas&label=Profile%20views&color=0e75b6&style=flat" alt="stegoyas" /> </p>
 
